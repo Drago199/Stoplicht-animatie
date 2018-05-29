@@ -1,0 +1,67 @@
+.stoplicht {
+    height: 40px;
+    width: 20px;
+    position: relative;
+    top: 440px;
+    left: 710px
+}
+
+.stoplicht2 {
+    height: 40px;
+    width: 20px;
+    position: relative;
+    top: 250px;
+    left: 480px;
+}
+
+.stoplicht3 {
+    height: 20px;
+    width: 40px;
+    position: relative;
+    top: 420px;
+    left: 435px;
+}
+
+.stoplicht4 {
+    height: 20px;
+    width: 40px;
+    position: relative;
+    top: 250px;
+    left: 620px;
+}
+
+.auto {
+    height: 80px;
+    width: 40px;
+    position: relative;
+    top: 800px;
+    left: 525px;
+}
+
+.auto2 {
+    height: 80px;
+    width: 40px;
+    position: relative;
+    top: -250px;
+    left: 350px;
+}
+
+.auto3 {
+    height: 80px;
+    width: 80px;
+    position: relative;
+    top: 410px;
+    left: -400px;
+}
+
+.auto4 {
+    height: 40px;
+    width: 80px;
+    position: relative;
+    top: 300px;
+    left: 1150px;
+}
+
+.container {
+
+}
